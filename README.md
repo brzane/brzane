@@ -1,5 +1,5 @@
 ### Hello World 👋  I'm Brzane Barmaga
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=brzane.brzane)-->
 
 - An enthusiastic artificial intelligenece engineering senior student currently enrolled in Damascus University seeking to deliver state-of-the-art AI solutions .Passionate about AI and how data-driven solutions are applied to different domains. Ranging from Industrial, Sociological and Smart City applications that positively impact people's life. 
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: My nickname is literally translated into English as programming ("barmaga" === "programming")
 ---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="icons/rick.gif" width="320" height="320" />
 
 **Languages and Skills:**
 <br><br>
