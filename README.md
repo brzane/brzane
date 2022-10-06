@@ -7,6 +7,7 @@
 
 - Ready for challenges in order to grow professionally while contributing my best to the organization with full devotion. I believe that the skills, teamwork, and time management I attained from the environment and competitive university life define me and I am looking forward to implementing them in any opportunity I receive.
 - ⚡ Fun fact: My nickname is literally translated into English as programming ("barmaga" === "programming")
+- **Portfolio: https://brzane.github.io/portfolio/**
 ---
 
 <img align="right" alt="GIF" src="icons/rick.gif" width="320" height="320" />
